@@ -1,0 +1,6 @@
+<form action='index.php' method="post>
+<input type="email" name="email" required='requoired/>
+<input type="password" name="password"/>
+<input type="checkbox" name="rememeber me" value="remember me/>
+<input type="submit" value="submit"/>
+</form>
